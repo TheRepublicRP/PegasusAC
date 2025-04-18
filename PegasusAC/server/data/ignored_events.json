@@ -1,0 +1,7 @@
+{
+    "ignored_events": [
+        "esx_drugs:example",
+        "esx_footbal*",
+        "__cfx_internal:pbRlScSession"
+    ]
+}

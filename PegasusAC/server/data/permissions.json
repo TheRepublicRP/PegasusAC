@@ -1,0 +1,105 @@
+[
+    {
+        "God": {
+            "groups": [
+                "my_esx_group",
+                "my_qb_group"
+            ],
+            "permissions": [
+                "permission_everything",
+                "permission_menu_player_jumpscare"
+            ],
+            "identifiers": [
+                "license:aedsdsdsd5d739fb27",
+                "ip:123123123123",
+                "discord:2131312312",
+                "discord:123456"
+            ]
+        },
+        "txAdmin": {
+            "groups": [],
+            "permissions": [
+                "permission_everything"
+            ],
+            "identifiers": [
+                "license:testdb275400d9374e28385d739fb27",
+                "license:ae3e9sdsds85d739fb27"
+            ]
+        },
+        "Admin": {
+            "groups": [
+                "my_esx24_group"
+            ],
+            "permissions": [
+                "permission_menu_players_tab"
+            ],
+            "identifiers": [
+                "license:ae3e9sdsddsd9fb27",
+                "ip:123123123123",
+                "discord:2131312312"
+            ]
+        },
+        "Helper": {
+            "groups": [
+                "my_esx_group",
+                "my_qb_group"
+            ],
+            "permissions": [
+                "permission_solo_session",
+                "permission_invisible",
+                "permission_weapons",
+                "permission_blacklist_task",
+                "permission_blacklist_crash",
+                "permission_blacklist_animation",
+                "permission_spectator_mode",
+                "permission_vision",
+                "permission_infinity_combat_roll",
+                "permission_infinity_lung_capacity",
+                "permission_infinity_stamina",
+                "permission_superjump",
+                "permission_tiny_ped",
+                "permission_headshot",
+                "permission_no_ragdoll",
+                "permission_stun",
+                "permission_aim_assist",
+                "permission_radar",
+                "permission_super_speed",
+                "permission_blips",
+                "permission_resource_manipulation",
+                "permission_blacklist_button",
+                "permission_ped_spawn",
+                "permission_vehicle_spawn",
+                "permission_chat",
+                "permission_object_spawn",
+                "permission_blacklist_chat",
+                "permission_explosion",
+                "permission_particles",
+                "permission_clear_tasks",
+                "permission_teleport",
+                "permission_dui_texture",
+                "permission_blacklist_command",
+                "permission_lua_menu",
+                "permission_hitbox",
+                "permission_softaim",
+                "permission_infinity_ammo",
+                "permission_safe_spawn",
+                "permission_vehicle_parachute",
+                "permission_self_spawn",
+                "permission_enter_vehicle",
+                "permission_statebag_exploit",
+                "permission_voice_exploit",
+                "permission_vehicle_nitro",
+                "permission_spinbot",
+                "permission_anticheat_stop",
+                "permission_honeypot_triggers",
+                "permission_exports",
+                "permission_event_protection"
+            ],
+            "identifiers": [
+                "license:asdasssdsadasdasd12312312",
+                "ip:123123123123",
+                "discord:2131312312"
+            ]
+        }
+    }
+]
