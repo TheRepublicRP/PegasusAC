@@ -28,28 +28,28 @@ Pegasus.Lang = "EN"                 -- [More language's can be found in server/d
 Pegasus.SaveDataTime = 5            -- [Minutes that PegasusAC will Update The data in JSON Files (BAN|PERMISSIONS|WHITELIST JSON Will Update Immediately)]
 
 --[[ Discord Webhooks ]]--
-Pegasus.Connections       = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Connection Webhook]
-Pegasus.Rejections        = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Rejection/Bans Webhook]
-Pegasus.AnticheatWarns    = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Warns]
-Pegasus.AnticheatKicks    = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Kicks]
-Pegasus.AnticheatBans     = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Bans]
-Pegasus.BannedAppeals     = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Ban Appeals]
-Pegasus.Disconnections    = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Disconnection Webhook]
-Pegasus.Screenshots       = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Screenshots Webhook]
-Pegasus.MalwareProtection = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Anti-Malware Alerts Webhook]
-Pegasus.AdminMenu         = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Your Admin Menu Actions Webhook]
-Pegasus.ScreenshotStorage = "IMPORTANT_PLACE_YOUR_WEHBOOKS_HERE" --[Important to set this up!This will save all of the screenshots url!]
+Pegasus.Connections       = "https://discord.com/api/webhooks/1365998027608690739/ueYLqwTp4RZ1q8Eiva7k_orqQExkDMh5SHtnz0cj3SDuUX-JfTZBOqPEIVR5xfuLnmJ6" --[Connection Webhook]
+Pegasus.Rejections        = "https://discord.com/api/webhooks/1365998027608690739/ueYLqwTp4RZ1q8Eiva7k_orqQExkDMh5SHtnz0cj3SDuUX-JfTZBOqPEIVR5xfuLnmJ6" --[Rejection/Bans Webhook]
+Pegasus.AnticheatWarns    = "https://discord.com/api/webhooks/1365998027608690739/ueYLqwTp4RZ1q8Eiva7k_orqQExkDMh5SHtnz0cj3SDuUX-JfTZBOqPEIVR5xfuLnmJ6" --[Warns]
+Pegasus.AnticheatKicks    = "https://discord.com/api/webhooks/1365998027608690739/ueYLqwTp4RZ1q8Eiva7k_orqQExkDMh5SHtnz0cj3SDuUX-JfTZBOqPEIVR5xfuLnmJ6" --[Kicks]
+Pegasus.AnticheatBans     = "https://discord.com/api/webhooks/1365998027608690739/ueYLqwTp4RZ1q8Eiva7k_orqQExkDMh5SHtnz0cj3SDuUX-JfTZBOqPEIVR5xfuLnmJ6" --[Bans]
+Pegasus.BannedAppeals     = "https://discord.com/api/webhooks/1365998799637712947/rOyVahlF0G_eJCTw-S8p6jJJxBkspYh_FXyh-hG_81XAvk8-D5VL_g7a67zHHQJKbYWW" --[Ban Appeals]
+Pegasus.Disconnections    = "https://discord.com/api/webhooks/1365998027608690739/ueYLqwTp4RZ1q8Eiva7k_orqQExkDMh5SHtnz0cj3SDuUX-JfTZBOqPEIVR5xfuLnmJ6" --[Disconnection Webhook]
+Pegasus.Screenshots       = "https://discord.com/api/webhooks/1365998447655653447/DZp7Tba9puQ4asAWqyeZgOe9aHnWf3xtZLWiKUhprovVXPVNnwJYBdJID8oEHd3cF7tb" --[Screenshots Webhook]
+Pegasus.MalwareProtection = "https://discord.com/api/webhooks/1365998027608690739/ueYLqwTp4RZ1q8Eiva7k_orqQExkDMh5SHtnz0cj3SDuUX-JfTZBOqPEIVR5xfuLnmJ6" --[Anti-Malware Alerts Webhook]
+Pegasus.AdminMenu         = "https://discord.com/api/webhooks/1365999135076913182/aoEd32srbqM6lNBFd0QO9kuH9tWe-2jf94NM5z9roS9UdCpP7ZAWM2r8qxpiq3Xe-KW-" --[Your Admin Menu Actions Webhook]
+Pegasus.ScreenshotStorage = "https://discord.com/api/webhooks/1365998447655653447/DZp7Tba9puQ4asAWqyeZgOe9aHnWf3xtZLWiKUhprovVXPVNnwJYBdJID8oEHd3cF7tb" --[Important to set this up!This will save all of the screenshots url!]
 Pegasus.ConnectionPrivacy = false --[It will hide IP Address of the person that is connecting and all the offline identifiers]
 
 --[[ Your Configuration ]]-- 
-Pegasus.NameOfServer = "Pegasus Fivem Server"         -- [Your Server Name]
-Pegasus.LogoOfServer = "https://i.postimg.cc/SN0WBBny/0-02-05-d5dc3a0ccabf262329e1d2fc931a9670601e1d04ff782e2d4eebabd95e1065c5-1f8fc5c80ca47b.png"
+Pegasus.NameOfServer = "TheRepublicRP"         -- [Your Server Name]
+Pegasus.LogoOfServer = "https://i.postimg.cc/QtMP3LCs/logo-black-gif.gif"
 Pegasus.AdaptiveBackgroundImage = ""                  -- [Image Behind Adaptive Cards]
 Pegasus.TrollGifInBanCards = true                     -- [Let us generate troll gif for every player try to connect in your server with a ban]
-Pegasus.SteamAPIKey = ""                              -- [Go here:https://steamcommunity.com/dev/apikey] 
-Pegasus.DiscordBotToken = ""                          -- [Here I Want a Token From A Discord Bot That U Have On Your Discord]
-Pegasus.DiscordServerId = ""                          -- [Your Discord Server Id]
-Pegasus.DiscordInvite = "https://discord.gg/pegasusac"-- [No Limit]
+Pegasus.SteamAPIKey = "7EE018C79875C34591A65A916DF931C6"                              -- [Go here:https://steamcommunity.com/dev/apikey] 
+Pegasus.DiscordBotToken = "MTM2NjAyMTQ0NjMxMjI2Mzc3Mg.GZ-aJn.zADybCWFQlIwCFSJ1TF5uv9P_0Gdd7midc1f04"                          -- [Here I Want a Token From A Discord Bot That U Have On Your Discord]
+Pegasus.DiscordServerId = "1302103588218081322"                          -- [Your Discord Server Id]
+Pegasus.DiscordInvite = "https://discord.gg/gsdXdfZckk"-- [No Limit]
 Pegasus.txAdminAuth = true                           -- [Automatically whitelist txAdmin users / Admins for the AntiCheat, the admins will automatically added to the admin list ]
 Pegasus.AutoACProtection = true                       -- [Automatically install AC Protection in 2 random resources!]
 
@@ -84,8 +84,8 @@ Pegasus.MaxSpoofScore = 6                 -- [Combination Block&Ban(User Connect
 Pegasus.RejectVACBanned = true            -- [Reject VAC Steam Players]
 Pegasus.SteamConnect = false              -- [Require From Player To Have Connected/Open Steam In Fivem In Order To Join]
 Pegasus.DiscordConnect = false            -- [Require From Player To Have Connected Discord In Fivem In Order To Join]
-Pegasus.DiscordServer = false             -- [Require To Join Your Discord Server To Be Able To Join Your Fivem Server]
-Pegasus.AntiVPN = true                    -- [Reject Player That Using VPN]
+Pegasus.DiscordServer = true             -- [Require To Join Your Discord Server To Be Able To Join Your Fivem Server]
+Pegasus.AntiVPN = false                    -- [Reject Player That Using VPN]
 Pegasus.NonArithmenticNames = false       -- [Reject Weird Syntax Names(Anti Sql Injection/XSS Attack)]
 Pegasus.DuplicateLicenses = true          -- [It will check if the player connecting has an already account in-game]
 
@@ -195,7 +195,7 @@ Pegasus.AntiVoiceExploitScreenshot = true
 Pegasus.AntiVoiceExploitDistance = 100.0
 
 -- [[ Anti Crash Detection ]] --
-Pegasus.AntiCrash = true  -- [Some Times Shity Executors Gives Abnormal Crashes In Fivem This Can Be Detected]
+Pegasus.AntiCrash = false  -- [Some Times Shity Executors Gives Abnormal Crashes In Fivem This Can Be Detected]
 Pegasus.AntiCrashPunishment = 'BAN'
 Pegasus.BlacklistedCrash = {
       ["gta-streaming-five.dll+4ae92"] = true,
@@ -314,7 +314,7 @@ Pegasus.ExplosionsList = {
 --[[ Anti Tazer/Detection of Tazing Someone From a ModMenu ]]--
 Pegasus.AntiTazePlayers = true
 Pegasus.MaxTazeSpam = 5
-Pegasus.TazePunishmentPunishment = 'BAN'
+Pegasus.TazePunishmentPunishment = 'KICK'
 Pegasus.AntiTazeScreenshot = false 
 
 
@@ -787,7 +787,7 @@ Pegasus.CL.BlackListDictionaryList = {
 
 
 --[[ Blacklist Weapons ]]--
-Pegasus.CL.BlackListWeaponChecker = true          -- INFO: For Better Protection Make All The Guns In Punishment = True and add Only Custom Weapons
+Pegasus.CL.BlackListWeaponChecker = false          -- INFO: For Better Protection Make All The Guns In Punishment = True and add Only Custom Weapons
 Pegasus.CL.WeaponsList = {
             [-1834847097] =  { name = "weapon_dagger",                 punishment = false, action = 'BAN', screenshot = true },
             [-1786099057] =  { name = "weapon_bat",                    punishment = false, action = 'BAN', screenshot = true },
@@ -1029,7 +1029,7 @@ Pegasus.CL.PickupList = {
 
 
 --[[ Weapon Damage Modifier ]]--
-Pegasus.CL.AntiWeaponDamageChanger = true 
+Pegasus.CL.AntiWeaponDamageChanger = false 
 Pegasus.WeaponDamageModifierPunishment = 'WARN'
 Pegasus.CL.MaxAmmo = 99999 -- This Is Your Max Ammo In Your Server If You Dont Like To Have That Check Just Put A Very High Number Here
 Pegasus.WeaponDamageModifierScreenshot = true
